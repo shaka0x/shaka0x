@@ -9,4 +9,4 @@ I have achieved multiple top-3 finishes in public [audit contests](https://audit
 
 Specializing in fuzzing and formal verification, I created [Fuzzoor](https://marketplace.visualstudio.com/items?itemName=Shaka.fuzzoor), a VS Code fuzzing extension, and co-created [Fizz](https://www.pashov.com/fizz), an AI-powered fuzzing skill within the Pashov Audit Group Skills suite.
 
-With [**Pashov Audit Group**](https://www.pashov.com/), I have completed over 100 audits, including Uniswap (DEX), Aave (Lending), Polymarket (Prediction Markets), HyperLend (Lending), Ostium (RWA Perpetuals), RAAC (RWA Lending), and Bunni (DEX / Liquidity Management).
+With [Pashov Audit Group](https://www.pashov.com/), I have completed over 100 audits, including Uniswap (DEX), Aave (Lending), Polymarket (Prediction Markets), HyperLend (Lending), Ostium (RWA Perpetuals), RAAC (RWA Lending), and Bunni (DEX / Liquidity Management).
